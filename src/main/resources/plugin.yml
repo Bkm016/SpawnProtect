@@ -1,0 +1,7 @@
+name: SpawnProtect
+main: me.skymc.bedwars.spawnprotect.spawnprotect
+version: 1.0-SNAPSHOT
+
+commands:
+  spawnprotect:
+    permission: spawnprotect.admin
